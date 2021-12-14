@@ -161,7 +161,7 @@ int client_handshake(int *to_server) {
   // ==========================================================================
 
   remove(input);
-  printf("Secret Pipe: Removed");
+  printf("Secret Pipe: Removed\n");
 
   // ==========================================================================
 
